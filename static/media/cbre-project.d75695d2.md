@@ -1,0 +1,1 @@
+> I've worked as service provider under Nagarro Payroll for CBRE Gurgaon, India.
