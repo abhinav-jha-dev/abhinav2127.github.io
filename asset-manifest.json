@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio_v2/static/css/main.3d238321.chunk.css",
-    "main.js": "/portfolio_v2/static/js/main.09a26a04.chunk.js",
-    "main.js.map": "/portfolio_v2/static/js/main.09a26a04.chunk.js.map",
+    "main.css": "/portfolio_v2/static/css/main.8b70d881.chunk.css",
+    "main.js": "/portfolio_v2/static/js/main.a4837d9c.chunk.js",
+    "main.js.map": "/portfolio_v2/static/js/main.a4837d9c.chunk.js.map",
     "runtime-main.js": "/portfolio_v2/static/js/runtime-main.a9ba4201.js",
     "runtime-main.js.map": "/portfolio_v2/static/js/runtime-main.a9ba4201.js.map",
     "static/css/2.af3c1da9.chunk.css": "/portfolio_v2/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.adf07926.chunk.js": "/portfolio_v2/static/js/2.adf07926.chunk.js",
-    "static/js/2.adf07926.chunk.js.map": "/portfolio_v2/static/js/2.adf07926.chunk.js.map",
+    "static/js/2.c4965bfa.chunk.js": "/portfolio_v2/static/js/2.c4965bfa.chunk.js",
+    "static/js/2.c4965bfa.chunk.js.map": "/portfolio_v2/static/js/2.c4965bfa.chunk.js.map",
     "index.html": "/portfolio_v2/index.html",
-    "precache-manifest.fbf1730b075cc0b4b941c1adb4eaf4ee.js": "/portfolio_v2/precache-manifest.fbf1730b075cc0b4b941c1adb4eaf4ee.js",
+    "precache-manifest.38e878465f0535ad977306a1c67ce995.js": "/portfolio_v2/precache-manifest.38e878465f0535ad977306a1c67ce995.js",
     "service-worker.js": "/portfolio_v2/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio_v2/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.3d238321.chunk.css.map": "/portfolio_v2/static/css/main.3d238321.chunk.css.map",
-    "static/js/2.adf07926.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.adf07926.chunk.js.LICENSE.txt",
+    "static/css/main.8b70d881.chunk.css.map": "/portfolio_v2/static/css/main.8b70d881.chunk.css.map",
+    "static/js/2.c4965bfa.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.c4965bfa.chunk.js.LICENSE.txt",
     "static/media/cbre-project.md": "/portfolio_v2/static/media/cbre-project.d75695d2.md",
     "static/media/databeat-logo.gif": "/portfolio_v2/static/media/databeat-logo.f8ff13c1.gif",
     "static/media/nagarro-logo.png": "/portfolio_v2/static/media/nagarro-logo.160b23e8.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.a9ba4201.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.adf07926.chunk.js",
-    "static/css/main.3d238321.chunk.css",
-    "static/js/main.09a26a04.chunk.js"
+    "static/js/2.c4965bfa.chunk.js",
+    "static/css/main.8b70d881.chunk.css",
+    "static/js/main.a4837d9c.chunk.js"
   ]
 }
