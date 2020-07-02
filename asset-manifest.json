@@ -1,31 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio_v2/static/css/main.6aaee3d8.chunk.css",
-    "main.js": "/portfolio_v2/static/js/main.756b2313.chunk.js",
-    "main.js.map": "/portfolio_v2/static/js/main.756b2313.chunk.js.map",
+    "main.css": "/portfolio_v2/static/css/main.97c97745.chunk.css",
+    "main.js": "/portfolio_v2/static/js/main.e62153b7.chunk.js",
+    "main.js.map": "/portfolio_v2/static/js/main.e62153b7.chunk.js.map",
     "runtime-main.js": "/portfolio_v2/static/js/runtime-main.a9ba4201.js",
     "runtime-main.js.map": "/portfolio_v2/static/js/runtime-main.a9ba4201.js.map",
     "static/css/2.af3c1da9.chunk.css": "/portfolio_v2/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f376b356.chunk.js": "/portfolio_v2/static/js/2.f376b356.chunk.js",
-    "static/js/2.f376b356.chunk.js.map": "/portfolio_v2/static/js/2.f376b356.chunk.js.map",
+    "static/js/2.06bd174c.chunk.js": "/portfolio_v2/static/js/2.06bd174c.chunk.js",
+    "static/js/2.06bd174c.chunk.js.map": "/portfolio_v2/static/js/2.06bd174c.chunk.js.map",
     "index.html": "/portfolio_v2/index.html",
-    "precache-manifest.205f943d39f9096313c9b85447ffac80.js": "/portfolio_v2/precache-manifest.205f943d39f9096313c9b85447ffac80.js",
+    "precache-manifest.15f28a64737a6084d864d3e0baa34a73.js": "/portfolio_v2/precache-manifest.15f28a64737a6084d864d3e0baa34a73.js",
     "service-worker.js": "/portfolio_v2/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio_v2/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.6aaee3d8.chunk.css.map": "/portfolio_v2/static/css/main.6aaee3d8.chunk.css.map",
-    "static/js/2.f376b356.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.f376b356.chunk.js.LICENSE.txt",
+    "static/css/main.97c97745.chunk.css.map": "/portfolio_v2/static/css/main.97c97745.chunk.css.map",
+    "static/js/2.06bd174c.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.06bd174c.chunk.js.LICENSE.txt",
     "static/media/cbre-project.md": "/portfolio_v2/static/media/cbre-project.d75695d2.md",
     "static/media/databeat-logo.gif": "/portfolio_v2/static/media/databeat-logo.f8ff13c1.gif",
     "static/media/nagarro-logo.png": "/portfolio_v2/static/media/nagarro-logo.160b23e8.png",
     "static/media/nopcommerce-logo.png": "/portfolio_v2/static/media/nopcommerce-logo.52a27683.png",
     "static/media/profile-logo-dark.png": "/portfolio_v2/static/media/profile-logo-dark.86d5dd3e.png",
-    "static/media/profile-logo-light.png": "/portfolio_v2/static/media/profile-logo-light.1dbd8a6b.png"
+    "static/media/profile-logo-light.png": "/portfolio_v2/static/media/profile-logo-light.1dbd8a6b.png",
+    "static/media/rep_bingo_project.md": "/portfolio_v2/static/media/rep_bingo_project.9d203415.md",
+    "static/media/rep_cbre_project.md": "/portfolio_v2/static/media/rep_cbre_project.72a0edf7.md",
+    "static/media/rep_haymarket_project.md": "/portfolio_v2/static/media/rep_haymarket_project.0312ac31.md"
   },
   "entrypoints": [
     "static/js/runtime-main.a9ba4201.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f376b356.chunk.js",
-    "static/css/main.6aaee3d8.chunk.css",
-    "static/js/main.756b2313.chunk.js"
+    "static/js/2.06bd174c.chunk.js",
+    "static/css/main.97c97745.chunk.css",
+    "static/js/main.e62153b7.chunk.js"
   ]
 }
