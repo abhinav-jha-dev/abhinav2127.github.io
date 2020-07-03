@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio_v2/static/css/main.1752f874.chunk.css",
-    "main.js": "/portfolio_v2/static/js/main.d2c315c3.chunk.js",
-    "main.js.map": "/portfolio_v2/static/js/main.d2c315c3.chunk.js.map",
+    "main.css": "/portfolio_v2/static/css/main.7902b95c.chunk.css",
+    "main.js": "/portfolio_v2/static/js/main.752dd5d5.chunk.js",
+    "main.js.map": "/portfolio_v2/static/js/main.752dd5d5.chunk.js.map",
     "runtime-main.js": "/portfolio_v2/static/js/runtime-main.a9ba4201.js",
     "runtime-main.js.map": "/portfolio_v2/static/js/runtime-main.a9ba4201.js.map",
     "static/css/2.af3c1da9.chunk.css": "/portfolio_v2/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.642e9b43.chunk.js": "/portfolio_v2/static/js/2.642e9b43.chunk.js",
-    "static/js/2.642e9b43.chunk.js.map": "/portfolio_v2/static/js/2.642e9b43.chunk.js.map",
+    "static/js/2.313028eb.chunk.js": "/portfolio_v2/static/js/2.313028eb.chunk.js",
+    "static/js/2.313028eb.chunk.js.map": "/portfolio_v2/static/js/2.313028eb.chunk.js.map",
     "index.html": "/portfolio_v2/index.html",
-    "precache-manifest.e60f9d9e33995889582396fe4cd26261.js": "/portfolio_v2/precache-manifest.e60f9d9e33995889582396fe4cd26261.js",
+    "precache-manifest.7413b5b5259967819fd9999b22005443.js": "/portfolio_v2/precache-manifest.7413b5b5259967819fd9999b22005443.js",
     "service-worker.js": "/portfolio_v2/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio_v2/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1752f874.chunk.css.map": "/portfolio_v2/static/css/main.1752f874.chunk.css.map",
-    "static/js/2.642e9b43.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.642e9b43.chunk.js.LICENSE.txt",
+    "static/css/main.7902b95c.chunk.css.map": "/portfolio_v2/static/css/main.7902b95c.chunk.css.map",
+    "static/js/2.313028eb.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.313028eb.chunk.js.LICENSE.txt",
     "static/media/databeat-logo.gif": "/portfolio_v2/static/media/databeat-logo.f8ff13c1.gif",
     "static/media/nagarro-logo.png": "/portfolio_v2/static/media/nagarro-logo.160b23e8.png",
     "static/media/nopcommerce-logo.png": "/portfolio_v2/static/media/nopcommerce-logo.52a27683.png",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.a9ba4201.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.642e9b43.chunk.js",
-    "static/css/main.1752f874.chunk.css",
-    "static/js/main.d2c315c3.chunk.js"
+    "static/js/2.313028eb.chunk.js",
+    "static/css/main.7902b95c.chunk.css",
+    "static/js/main.752dd5d5.chunk.js"
   ]
 }
