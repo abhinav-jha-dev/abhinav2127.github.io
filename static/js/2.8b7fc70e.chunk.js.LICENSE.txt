@@ -11,10 +11,22 @@ object-assign
 */
 
 /*!
+ * Cross-Browser Split 1.1.1
+ * Copyright 2007-2012 Steven Levithan <stevenlevithan.com>
+ * Available under the MIT License
+ * ECMAScript compliant, uniform cross-browser split method
+ */
+
+/*!
  * Determine if an object is a Buffer
  *
  * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
+ */
+
+/*!
+ * html-attributes
+ * https://github.com/alexmingoia/html-attributes
  */
 
 /*!
@@ -23,6 +35,13 @@ object-assign
  * Copyright (c) 2014-2015, Jon Schlinkert.
  * Licensed under the MIT License.
  */
+
+/*!
+ * svg-attributes
+ * https://github.com/alexmingoia/svg-attributes
+ */
+
+/*! http://mths.be/he v0.5.0 by @mathias | MIT license */
 
 /** @license React v0.19.1
  * scheduler.production.min.js
