@@ -1,1 +1,0 @@
-Nagarro Softwares is the worlds leading software service providers.
