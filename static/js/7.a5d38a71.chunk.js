@@ -1,2 +1,0 @@
-(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[7],{648:function(a,o,i){a.exports=i.p+"static/media/org_haymarket_desc.5e499c09.md"}}]);
-//# sourceMappingURL=7.a5d38a71.chunk.js.map
