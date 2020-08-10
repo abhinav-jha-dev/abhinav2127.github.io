@@ -1,0 +1,2 @@
+(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[6],{652:function(a,o,t){a.exports=t.p+"static/media/org_databeat_desc.d569c55f.md"}}]);
+//# sourceMappingURL=6.cf4f30e3.chunk.js.map
