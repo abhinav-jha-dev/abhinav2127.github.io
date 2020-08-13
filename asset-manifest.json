@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.06b70f16.chunk.css",
-    "main.js": "/static/js/main.2898a3e9.chunk.js",
-    "main.js.map": "/static/js/main.2898a3e9.chunk.js.map",
+    "main.js": "/static/js/main.5931f565.chunk.js",
+    "main.js.map": "/static/js/main.5931f565.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4b4e9e33.js",
     "runtime-main.js.map": "/static/js/runtime-main.4b4e9e33.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.de0f9a6b.chunk.js": "/static/js/2.de0f9a6b.chunk.js",
-    "static/js/2.de0f9a6b.chunk.js.map": "/static/js/2.de0f9a6b.chunk.js.map",
+    "static/js/2.41220cf9.chunk.js": "/static/js/2.41220cf9.chunk.js",
+    "static/js/2.41220cf9.chunk.js.map": "/static/js/2.41220cf9.chunk.js.map",
     "static/js/3.b0f55ee4.chunk.js": "/static/js/3.b0f55ee4.chunk.js",
     "static/js/3.b0f55ee4.chunk.js.map": "/static/js/3.b0f55ee4.chunk.js.map",
     "static/js/4.065083a3.chunk.js": "/static/js/4.065083a3.chunk.js",
@@ -33,11 +33,11 @@
     "static/js/14.063cb920.chunk.js": "/static/js/14.063cb920.chunk.js",
     "static/js/14.063cb920.chunk.js.map": "/static/js/14.063cb920.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd577e9bb656dcf742f7b959afa47ef5.js": "/precache-manifest.bd577e9bb656dcf742f7b959afa47ef5.js",
+    "precache-manifest.ec8e8d2eca258b4481f0971ffe40fa0f.js": "/precache-manifest.ec8e8d2eca258b4481f0971ffe40fa0f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.06b70f16.chunk.css.map": "/static/css/main.06b70f16.chunk.css.map",
-    "static/js/2.de0f9a6b.chunk.js.LICENSE.txt": "/static/js/2.de0f9a6b.chunk.js.LICENSE.txt",
+    "static/js/2.41220cf9.chunk.js.LICENSE.txt": "/static/js/2.41220cf9.chunk.js.LICENSE.txt",
     "static/media/NewLogo_web.jpg": "/static/media/NewLogo_web.6ecd8d2c.jpg",
     "static/media/databeat-logo.gif": "/static/media/databeat-logo.f8ff13c1.gif",
     "static/media/dav-public-school-logo.png": "/static/media/dav-public-school-logo.34ebdaad.png",
@@ -62,8 +62,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b4e9e33.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.de0f9a6b.chunk.js",
+    "static/js/2.41220cf9.chunk.js",
     "static/css/main.06b70f16.chunk.css",
-    "static/js/main.2898a3e9.chunk.js"
+    "static/js/main.5931f565.chunk.js"
   ]
 }
