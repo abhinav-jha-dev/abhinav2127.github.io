@@ -13,7 +13,7 @@ I joined TMotions in "2016" after 2+ years of a stint experience with multiple s
 
 I strongly believed that time management and self-discipline are two very important aspects to be successful in Software Development. I started working on building media solutions for existing project of Haymarket Media group of UK, by building Angular based web components and Web APIs for Data Manipulation.
 
-I've worked on building Data Import Solution for Haymarket which I've explained [here](http://localhost:3000/organizations/Haymarket%20Media%20UK). I believe in strong leadership skill where leaders help there resources to grow and improve their skills and by luck I found great leaders to work within the organization, which help me to polish my skills and improve my productivity. 
+I've worked on building Data Import Solution for Haymarket which I've explained [here](./Haymarket%20Media%20UK). I believe in strong leadership skill where leaders help there resources to grow and improve their skills and by luck I found great leaders to work within the organization, which help me to polish my skills and improve my productivity. 
 <!-- EndResumeKey -->
 <!-- EndExperienceKey -->
 <!-- End Key Roles -->

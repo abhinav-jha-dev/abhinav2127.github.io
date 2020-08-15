@@ -8,7 +8,7 @@
 <!-- ExperienceKey -->
 ###### My Roles
 <!-- ResumeKey -->
-I joined `Techbit` in "2016" after completing 1 year of stint work with [Ashtbit Technologies](https://abhinav2127.github.io/organizations/Ashtbit%20Technologies%20Pvt.%20Ltd.) as a `Front-End Developer` where after covering Front-end technologies I wanted to move towards `Full Stack Development` and to that I've joined `Techbit`. I got a chance to work with `.Net Core`(Latest framework) framework to build `web apis` and `windows service` for background process.
+I joined `Techbit` in "2016" after completing 1 year of stint work with [Ashtbit Technologies](./Ashtbit%20Technologies%20Pvt.%20Ltd.) as a `Front-End Developer` where after covering Front-end technologies I wanted to move towards `Full Stack Development` and to that I've joined `Techbit`. I got a chance to work with `.Net Core`(Latest framework) framework to build `web apis` and `windows service` for background process.
 
 As a `Full Stack Developer`, I am working with `.Net Core APIs` where I've leaned concepts of `Web API`, `Design Patterns` and `Dependency Injection`. At the time working with tight deadline I've also improved my `Time Management Skills` and even created sample app for managing my tasks at work. The most challenging part for is to build `Template Generation` process which uses `Abstract Factory`, `Strategy, Singleton` and `Factory Method` Patterns to build Dynamic Bus time tables for transportation services. I've also worked with `parallel programming` for generating multiple templates to reduce time and improve performance.
 
