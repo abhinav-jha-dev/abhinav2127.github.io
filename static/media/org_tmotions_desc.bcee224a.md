@@ -21,9 +21,10 @@ I've worked on building Data Import Solution for Haymarket which I've explained 
 <!-- Key Achievements -->
 ###### Achievements
 <!-- CVKey -->
-- Implemented Importing Solution for Media related Data.
-- Used Onion architecture to developed web api solutions.
-- Mastered Real Time Notification Service using SignalR for developing Map Notification module.
-- Covered different Angular based Application architectures.
+- Developed `Data Import Solution` for Media Industry Data Import using `.Net Core` and `Design Patterns`.
+- Developed Client APIs using `Onion Architecture` for Loosely Coupled layers.
+- Developed a MVP for `Real-time Notifications` on Google Maps using `SignalR`, and `.Net Core`.
+- `Mastered Angular Application` development for Module based AOT build.
+- `Mastered Web API and MVC Application Development` with Authentication using .Net Core Infrastructure.
 <!-- EndCVKey -->
 <!-- End Achievements -->

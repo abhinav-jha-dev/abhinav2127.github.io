@@ -20,8 +20,8 @@ I'm a strong believer in communication. “It is difficult for others to sense y
 <!-- CVKey -->
 - Implemented `Microservice` architecture for `CBRE`.
 - Investigated fundamentals of Solution Architecture while working with `Google Cloud`.
-- Formulated a project pipeline for app development with `CI/CD`.
-- Mastered `ColdFusion` and the fundamentals of programming language.
+- Formulated a project pipeline for app development using `Google CI/CD`.
+- `Mastered fundamentals of programming language` through ColdFusion.
 - Originated `Cordova` based Mobile App for `Bingo Industries`.
 <!-- EndCVKey -->
 <!-- End Achievements -->

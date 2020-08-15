@@ -24,10 +24,10 @@ Working with `Ashtbit`, I've also learned about `SVG` and `Canvas` Designs, and 
 <!-- Key Achievements -->
 ###### Achievements
 <!-- CVKey -->
-- Learned `CSS`, `Javascript`, `SVG`, `Canvas` and `AngularJS`.
-- Understand `Application Architecture` and build `Generic UI Widget` for the Digital Signage Displays.
-- Mastered Concept of Pixel Density and Pixel grid for different displays..
-- Build Canvas Games like Tic Tak Toe, to utilize free time.
-- Implemented `Third Party APIs` to display content across Digital Signage Displays.
+- Mastered `Javascript`, `AngularJS`, `CSS Selectors`, `Animations`, `SVG`, `Canvas` and `Package Development in JQuery and Javascript`.
+- Learned about `Application Architectures` with which developed `Generic UI Widget library` for Digital Signage.
+- `Researched on Pixel Density` by understanding DPI, and PPI for multiple digital signage screens.
+- Developed `Opensource Canvas Games` like `Tic Tak Toe` and `Unfaithful Snake`.
+- `Integrated third-party APIs` for posting and managing Digital Signage Content.
 <!-- EndCVKey -->
 <!-- End Achievements -->

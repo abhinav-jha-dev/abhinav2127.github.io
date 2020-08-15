@@ -20,9 +20,8 @@ I've also developed `Single SingOn Application` for multiple portals which was b
 <!-- Key Achievements -->
 ###### Achievements
 <!-- CVKey -->
-- Learned `Web API development` with `.Net Core` (1 and 2), `Design Patterns`, `N Layer Application Architecture`, and `MongoDB`.
-- Mastered `Design Patterns` and Authentication Mechanisms for Web API.
-- Build `Single SignOn Process` for Client authentication using `Identity Server`.
-- Mastered `Parallel Programing` techniques using C#.
+- Mastered `Web API Fundamentals` with `JWT O-Auth2 Authentication` and `Software Engineering Patterns` with `MongoDB` and `SQL Server` Databases
+- Developed `Single Sign-On Authentication` Mechanism using `Identity Server` and also explored `SAML` for providing authentication across client applications.
+- Worked on `Generic` and `Parallel` Programing with `Data Structure` to build business solution for Bus Timetable Generation in 20 days.
 <!-- EndCVKey -->
 <!-- End Achievements -->
