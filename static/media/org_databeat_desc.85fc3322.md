@@ -13,7 +13,7 @@ As starting of my carrier in Software Development, I've been doing some freelanc
 
 I've learned a lot working with them, and created several widgets for displaying on different devices. Explored CSS, Javascript, SVG and Canvas for showing components inside widgets. to give a small glace of widget, I'm attaching an image,
 
-<img src="https://raw.githubusercontent.com/abhinav2127/Gitpad/master/resources/portfolio/images/A_London-City_trans.png" width="100%">
+<img src="https://raw.githubusercontent.com/abhinav2127/Gitpad/portfolio/images/A_London-City_trans.png" width="100%">
 
 Let me tell you more about hot it works, DatabeatOMNI is the software portal for selecting widgets for devices group. Where we have more than 20 widgets from simple Clock to Social media widgets for Instagram, Facebook etc. which will then display on Android, Samsung and widows displays used for signage.
 

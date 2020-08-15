@@ -13,7 +13,7 @@ Haymarket project brings new challenge from my first day working with them. We w
 
 I've created a Data Import mechanism for importing data from different sources and mapping them to our entity schemas. Which help them to import millions of records in batches as a background service for there clients. Here I've tried to show, how it works,
 
-<img src ="https://raw.githubusercontent.com/abhinav2127/Gitpad/master/resources/portfolio/images/Org_Haymarket_DataImport.svg" width="100%">
+<img src ="https://raw.githubusercontent.com/abhinav2127/Gitpad/portfolio/images/Org_Haymarket_DataImport.svg" width="100%">
 
 This is the big picture of application, but in background we process batches in multiple treads, which help us to import faster. Logger is used to log information about error and validations. We also export Json for failed imports. I will try to explain in more detail in my blog.
 <!-- EndResumeKey -->
