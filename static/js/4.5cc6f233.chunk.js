@@ -1,0 +1,2 @@
+(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[4],{560:function(a,o,i){a.exports=i.p+"static/media/org_ashtbit_desc.57ad93e3.md"}}]);
+//# sourceMappingURL=4.5cc6f233.chunk.js.map
