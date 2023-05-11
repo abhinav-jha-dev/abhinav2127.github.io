@@ -1,2 +1,0 @@
-(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[10],{851:function(a,o,i){"use strict";i.r(o),o.default=i.p+"static/media/org_nopcommerce_desc.a618513b.md"}}]);
-//# sourceMappingURL=10.285b730e.chunk.js.map

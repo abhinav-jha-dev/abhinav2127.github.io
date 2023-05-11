@@ -1,2 +1,0 @@
-(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[11],{568:function(o,a,i){o.exports=i.p+"static/media/org_techbit_desc.38c79502.md"}}]);
-//# sourceMappingURL=11.32c307e9.chunk.js.map

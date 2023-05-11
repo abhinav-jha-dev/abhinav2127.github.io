@@ -1,2 +1,0 @@
-(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[12],{853:function(a,o,t){"use strict";t.r(o),o.default=t.p+"static/media/org_tmotions_desc.3fa44ce2.md"}}]);
-//# sourceMappingURL=12.a6d332e8.chunk.js.map

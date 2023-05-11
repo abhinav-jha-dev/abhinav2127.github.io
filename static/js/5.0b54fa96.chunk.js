@@ -1,2 +1,0 @@
-(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[5],{846:function(a,i,o){"use strict";o.r(i),i.default=o.p+"static/media/org_bingo_desc.d49786b5.md"}}]);
-//# sourceMappingURL=5.0b54fa96.chunk.js.map
