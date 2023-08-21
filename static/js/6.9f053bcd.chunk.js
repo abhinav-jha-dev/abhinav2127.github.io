@@ -1,0 +1,2 @@
+(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[6],{186:function(a,i,o){"use strict";o.r(i),i.default=o.p+"static/media/org_cbre_desc.f3178d52.md"}}]);
+//# sourceMappingURL=6.9f053bcd.chunk.js.map
