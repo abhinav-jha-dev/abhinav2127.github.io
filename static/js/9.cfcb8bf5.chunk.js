@@ -1,2 +1,0 @@
-(this.webpackJsonpabhinavjhaportfolio=this.webpackJsonpabhinavjhaportfolio||[]).push([[9],{189:function(a,o,i){"use strict";i.r(o),o.default=i.p+"static/media/org_nagarro_desc.7f0a491b.md"}}]);
-//# sourceMappingURL=9.cfcb8bf5.chunk.js.map

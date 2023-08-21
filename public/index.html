@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <script src="https://kit.fontawesome.com/5aa00f177a.js" crossorigin="anonymous"></script>
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+  <title>Abhinav Jha | Professional Resume</title>
+
+  <!-- Social Media Banner data-->
+  <meta name="description"
+    content="A Software Engineer from India looking to work with Research Teams to build Machine Learning and AI based solutions. Connect with me or Hire me for your Job." />
+
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="Abhinav Jha | Software Professional">
+  <meta itemprop="description"
+    content="A Software Engineer from India looking to work with Research Teams to build Machine Learning and AI based solutions. Connect with me or Hire me for your Job.">
+  <meta itemprop="image"
+    content="https://raw.githubusercontent.com/abhinav2127/Gitpad/portfolio/images/profile_social_media_banner.jpg">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="product">
+  <meta name="twitter:site" content="@abhinavjha2127">
+  <meta name="twitter:title" content="Abhinav Jha | Software Professional">
+  <meta name="twitter:description"
+    content="A Software Engineer from India looking to work with Research Teams to build Machine Learning and AI based solutions. Connect with me or Hire me for your Job.">
+  <meta name="twitter:creator" content="@abhinavjha2127">
+  <meta name="twitter:image"
+    content="https://raw.githubusercontent.com/abhinav2127/Gitpad/portfolio/images/profile_social_media_banner.jpg">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="Abhinav Jha | Software Professional">
+  <meta property="og:site_name" content="Abhinav Jha | Professional Resume">
+  <meta property="og:url" content="https://abhinav2127.github.io/">
+  <meta property="og:description"
+    content="A Software Engineer from India looking to work with Research Teams to build Machine Learning and AI based solutions. Connect with me or Hire me for your Job.">
+  <meta property="og:type" content="profile">
+  <meta property="og:image"
+    content="https://raw.githubusercontent.com/abhinav2127/Gitpad/portfolio/images/profile_social_media_banner.jpg">
+  <meta name="author" content="Abhinav Jha">
+
+  <!-- SEO Google Search-->
+  <meta name="google-site-verification" content="SK5ApYpzdiJ2LS0BOF-SpJtOiD6_CA9f7h6Cu6W33SM" />
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  <script>
+    let deferredPrompt;
+    function showInstallPromotion() {
+      let pwaAlert = document.getElementById("pwaAlert");
+      pwaAlert.classList.toggle('fade');
+      setTimeout(() => {
+        pwaAlert.classList.toggle('fade');
+      }, 5000);
+
+      let installBtn = document.getElementById("pwaAlert-btn");
+      installBtn.addEventListener('click', (e) => {
+        // hide our user interface that shows our A2HS button
+        pwaAlert.classList.toggle('fade');
+        // Show the prompt
+        deferredPrompt.prompt();
+        // Wait for the user to respond to the prompt
+        deferredPrompt.userChoice.then((choiceResult) => {
+          if (choiceResult.outcome === 'accepted') {
+            pwaAlert.classList.toggle('fade');
+            console.log('User accepted the A2HS prompt');
+          } else {
+            pwaAlert.classList.toggle('fade');
+            console.log('User dismissed the A2HS prompt');
+          }
+          deferredPrompt = null;
+        });
+      });
+    }
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      // Stash the event so it can be triggered later.
+      deferredPrompt = e;
+      // Update UI notify the user they can add to home screen
+      showInstallPromotion();
+    });
+  </script>
+</body>
+
+</html>

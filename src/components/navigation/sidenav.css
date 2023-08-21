@@ -1,0 +1,59 @@
+:root {
+    --navcover-z-index: 99;
+    --sidenav-z-index: 100;
+  }
+  
+  .nav-cover {
+    position: fixed;
+    z-index: var(--navcover-z-index);
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+  /*   background-color: rgba(0, 0, 0, 0.5); */
+  }
+  
+  .side-nav {
+    height: 100%;
+    width: 0;  /* to be set in js */
+    position: fixed;
+    overflow-x: hidden;
+    z-index: var(--sidenav-z-index);
+    top: 0;
+    left: 0;
+    background: #24292e;
+    padding: 1rem;
+    transition: 0.5s;
+  }
+  
+  .side-nav a {
+    text-decoration: none;
+    color: #818181;
+    transition: 0.53s;
+  }
+  .side-nav hr{
+    border-top: 1px solid rgba(255,255,255,.1) !important;
+  }
+  
+  .side-nav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .side-nav .close-nav {
+    position: absolute;
+    top: 0rem;
+    line-height: 0.8;
+    right: 0.5rem;
+    font-size: 2.2rem;
+  }
+  
+  .site-wrapper {
+      transition: margin-left .5s;
+  }
+  
+  .open-nav {
+    font-size: 2rem;
+    cursor: pointer;
+    color: white;
+  }
+  
